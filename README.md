@@ -19,8 +19,8 @@
 - Install Extension : https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp
 - Done
 
-## Running Node :
-- Install Node :
+## Running BOT :
+- Install BOT :
 ```
 git clone https://github.com/Iyas-SOA/BlockMesh-Network.git
 ```
