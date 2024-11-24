@@ -25,7 +25,7 @@
 git clone https://github.com/Iyas-SOA/BlockMesh-Network.git
 ```
 ```
-./BlockMesh-SOA.sh
+./BlockMesh-Network-SOA.sh
 ```
 - Submit your Email
 - Submit your Password
