@@ -22,7 +22,10 @@
 ## Running Node :
 - Install Node :
 ```
-bash <(curl -s https://raw.githubusercontent.com/SchoolOfAirdrop/Files/refs/heads/main/BlockMesh%20Network.sh)
+git clone https://github.com/Iyas-SOA/BlockMesh-Network.git
+```
+```
+./BlockMesh-SOA.sh
 ```
 - Submit your Email
 - Submit your Password
